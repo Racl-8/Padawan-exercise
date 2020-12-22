@@ -1,0 +1,16 @@
+/* Global Reset */
+
+*,
+*::before,
+*::after{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body parameters */
+
+body {
+  background-color: #eeeded;
+  color: #8d8b8b;
+}
